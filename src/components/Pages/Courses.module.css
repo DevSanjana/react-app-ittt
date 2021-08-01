@@ -1,0 +1,18 @@
+.CourseLibrary {
+  background: var(--raisin);
+  min-height: 100vh;
+  top: 0rem;
+}
+.clWrap {
+  width: 90%;
+  margin: auto;
+}
+.clTitle {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(1, 153, 158);
+  color: #fff;
+  padding: 4rem;
+}
